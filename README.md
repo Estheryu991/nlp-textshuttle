@@ -58,3 +58,6 @@ $ python3 preprocess_corpus.py --min-alpha 0.9 data/corpus.de.txt
 Ausgezeichnet.
 ...
 ```
+# Contributor:
+
+lyutyuh 
